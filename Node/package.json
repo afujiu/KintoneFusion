@@ -1,0 +1,25 @@
+{
+  "name": "panopti",
+  "version": "1.0.0",
+  "description": "https://vibrant-carson-05acbd.netlify.app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afujiu/panopti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afujiu/panopti/issues"
+  },
+  "homepage": "https://github.com/afujiu/panopti#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "encoding-japanese": "^1.0.30",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
